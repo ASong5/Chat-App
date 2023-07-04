@@ -1,4 +1,4 @@
-# Chat-App
+# IM Chat Application
 Basic chat application made with the intent to learn about and practice socket programming, multithreading, and GUI design. Developed in Java with JavaFX.
 
 
